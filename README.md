@@ -28,7 +28,7 @@ A powerful Discord Nuke tool.
 ## License Key
 
 You must have a valid license key to use this tool.  
-**Here is a One Month Free Key:OverloadOps V2**
+Here is a One Month Free Key:OverloadOps V2
 Contact the author to obtain a key.
 
 ---
