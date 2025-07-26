@@ -48,7 +48,7 @@ The author is not responsible for any misuse or damage.
 
 ---
 
-![Tool Preview](https://cdn.discordapp.com/attachments/1269290182541312132/1392759011480178708/image.png?ex=6870b368&is=686f61e8&hm=36c6b680dd7d309289433be8a41dee45f9a997c8423d0d2c74bd89f90a006924&)
+![Tool Preview](https://github.com/user-attachments/assets/a1f90760-dc21-44eb-b625-3d9b1181a9ae)
 
 ## Contact
 
