@@ -1,7 +1,7 @@
 # OverloadOps-Nuke-Tool
 A powerful Discord Nuke tool.
 
-**Version:** 2.0
+**Version:** 3.0
 
 ---
 
